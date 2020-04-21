@@ -1,5 +1,6 @@
 export const products = [
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone XL',
     price: 799,
     description: '良質なスマートフォン',
@@ -11,6 +12,7 @@ export const products = [
     headingtext3:'サンプル3',
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone Mini',
     price: 699,
     description: 'コンパクトなスマートフォン',
@@ -22,6 +24,7 @@ export const products = [
     headingtext3:'サンプル3',
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Phone Standard',
     price: 599,
     description: '標準のスマートフォン',
@@ -33,6 +36,7 @@ export const products = [
     headingtext3:'サンプル3',
   },
   {
+    coverImage: './assets/img/phone-cover.jpg',
     name: 'Android',
     price: 399,
     description: 'OSが異なるスマートフォン',
